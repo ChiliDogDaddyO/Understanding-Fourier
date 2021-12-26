@@ -5,6 +5,9 @@ https://towardsdatascience.com/the-fourier-transform-1-ca31adbfb9ef
 Dendron:
 /Users/qt02537/local/repos/Dendron/vault/IT.AI.FourierTransforms.md
 
+local Repo:
+(.venv) qt02537@MacBook-Air ~/local/repos/learn/21Q4/GH/Understanding-Fourier/fourier_1 (master)
+
 ## Table of Contents
 
 - [About](#about)
